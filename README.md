@@ -1,0 +1,1 @@
+This component is a lexical analyzer built with flex, designed to parse source code written in the simplified AC language. It extracts lexical tokens that are useful for further syntactic analysis or for higher-level tasks such as text similarity comparison between AC programs.
